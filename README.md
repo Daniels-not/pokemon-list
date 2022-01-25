@@ -1,6 +1,6 @@
 # Pokedex with Vuejs 🌇
 ![index](https://github.com/Daniels-not/pokemon-list/blob/main/filter.PNG)
-![router]()
+![router](https://github.com/Daniels-not/pokemon-list/blob/main/get-pokemon.PNG)
 
 ## Functionalities ✨
 
